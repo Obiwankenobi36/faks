@@ -1,1 +1,26 @@
-prvi nešto bla bla
+Pretvorba analognog u digitalni signal
+ADC - Analogue to Digital Conversion
+• To je proces pretvaranja analognog audio signala u digitalni kod (“code”) koji se sastoji od serije pulseva koji u binarnom obliku predstavljaju vrijednosti amplitude ulaznog analognog signala u preciznim jedinicama vremena
+
+Uzorkovanje (“Sampling ”)
+• Uzorkovanje tj uzimanje uzoraka je mjerenje trenutne vrijednosti napona ulaznog analognog signala u unaprijed definiranim, preciznim vemenskim intervalima
+• Uzorkovanje se odnosi na Vremensku komponentu i direktno definira “bandwidth” tj. veličinu Frekventnog spektra (“Frequency range”) analognog audio signala koji želimo pretvoriti u digitalni 
+Period Uzorkovanja (“Sampling Rate”) je broj uzoraka u jedinici vremena
+Učestalost Uzorkovanja (“Sampling Frequency”) je jedinica mjere za broj uzoraka u jednoj sekundi (u kHz)
+
+• Što je veća Učestalost Uzorkovanja (“Sampling Frequency”) bolja je preciznost
+Pretvorbe
+
+“Nyquist” Teorema:
+Učestalost Uzorkovanja mora biti barem dvostruko veća od najviše frekvencije ulaznog audio signala
+
+“Anti-Aliasing” - Da bi se eliminirao “Aliasing”- efekt, potreban je tzv. “Nyquist Filter” – niskopropusni (“Low-Pass”) filter koji bi -spriječio sve frekvencije iznad “Nyquist Cutoff” frekvencije da prodju
+“Anti-Aliasing” - U praksi, takva vrsta “Brick Wall” filtera nije (ekonomski) izvodiva. Iz tog razloga, period uzorkovanja u praksi mora biti ne dvostruko nego 2,2 do 2,3 puta veći (Compact Disc @44.1kHz)
+
+Discrete Time Theory:
+Neki fizičari sugerirali su da, poput energije i materije, vrijeme može doći u diskretnim paketima...
+
+Nedjeljivo vremensko razdoblje može biti 1 x 10 (-42) sec...
+
+Teorija predviđa da nijedan vremenski interval ne može biti kraći jer bi energija potrebna za podjelu bila tolika da bi se stvorila crna rupa i događaj bi bio progutao
+
