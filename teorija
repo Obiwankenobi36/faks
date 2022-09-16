@@ -1,0 +1,77 @@
+--- Objasnite što je agilno upravljanje projektima i za koje tipove projekata se koristi?
+
+Agilno upravljanje projektima je iterativni pristup isporuci projekta tijekom njegovog životnog ciklusa.
+
+Iterativni ili agilni životni ciklusi sastoje se od nekoliko iteracija ili inkrementalnih koraka prema završetku projekta. Iterativni pristupi često se koriste u projektima razvoja softvera za promicanje brzine i prilagodljivosti budući da je prednost iteracije to što se možete prilagođavati u hodu umjesto da slijedite linearni put.
+
+Jedan od ciljeva agilnog ili iterativnog pristupa je oslobađanje koristi tijekom cijelog procesa, a ne samo na kraju. U srži, agilni projekti trebali bi pokazivati središnje vrijednosti i ponašanja povjerenja, fleksibilnosti, osnaživanja i suradnje.
+
+Inicijalno: projekti razvoja softvera, sada se široko koristi za gotovo sve velike projekte u bilo kojoj industriji
+
+--- Objasnite što je PRINCE2 metodologija i za koje tipove projekata se koristi.
+
+PRINCE2® (PRojects IN Controlled Environments) je globalno prepoznata procesna metodologija za efikasan project management. Primijenjen je diljem svijeta, a preferirana u UK, EU i Australiji. Donosi best practice za Project Management i smatra se ključnom kvalifikacijom za one koji žele napredovati u svojoj project management karijeri. Primjenjiva je u bilo kojoj industriji i na projektima različitih veličina.
+
+vodeća strukturna metodologija za upravljanje projektima u svijetu. koristi isprobane metode koje se temelje na
+dobrim praksama i prethodnim iskustvima. pruža jasne smjernice o najboljim načinima upravljanja projektima. omogućuje organizacijama da imaju bolji nadzor nad projektima i time osigurava bolji povrat investicije ulagaču
+
+
+
+--- Objasnite što je ITIL metodologija, od kojih komponenti se sastoji i za koje tipove projekata se koristi?
+
+ITIL (Internet technology infrastructure library) je praksa upravljanja uslugama i procesima u IT okruženju. Pretvara IT okruženje u poslovno okruženje kako bi njime lakše mogli upravljati metodologijom. Glavne komponente ITIL V3 su: service design, service transition, service operation 
+Najprihvaćenija metodologija IT Service Managementa među organizacijama diljem svijeta.
+
+
+
+--- to je KANBAN? Objasnite na koji način se pomoću KANBAN metode upravlja projektima i za koje tipove projekata se koristi. 
+
+Kanban je podsektor Agile metodologije i funkcionira unutar šireg Agile mentaliteta. Filozofija Agile temelji se na prilagodljivom planiranju, ranoj isporuci i kontinuiranom poboljšanju—sve to Kanban može podržati.
+
+Kanban ploča predstavlja faze rada sa stupcima koji sadrže pojedinačne zadatke za svaku fazu
+
+Moderni Kanban okvir je online, vizualna metoda za upravljanje poslom.
+
+Kanban ploče: vizualni pogled na upravljanje projektima koji Kanban metodologiju oživljava.
+
+U Kanban ploči, stupci predstavljaju različite faze rada. Unutar svakog stupca, vizualne kartice predstavljaju pojedinačne zadatke i fazu u kojoj se nalaze. Obično su te faze "za obaviti", "u tijeku" i "gotovo".
+
+Kanban ploče jedan su od najpopularnijih oblika vizualnog upravljanja projektima. Oni su najučinkovitiji za pružanje jednostavnog, brzog uvida u projekt. 
+
+Najčešće korišten za IT strukture unutar firmi (Zara, Pixar, Spotify)
+
+
+---Lean
+Lean upravljanje projektima je dokaz da Lean principi mogu pronaći korisnu primjenu u mnogim područjima.
+
+Isporuka vrijednosti iz perspektive vašeg kupca, smanjenje otpada i kontinuirano poboljšanje pomažu voditeljima projekata da povećaju učinkovitost svojih projekata i omogućuju im da isporuče više s manje.
+
+Dok je tradicionalno upravljanje projektima strukturirano u fazama, koje odvajaju planiranje od izvršenja, Lean upravljanje projektima omogućuje timovima da brže isporučuju rezultate učinkovitim upravljanjem svojim tijekovima rada i fokusira se na isporuku vrijednosti iz perspektive kupaca.
+
+
+
+--- Sixsigma 
+
+ Six Sigma je statistička sintagma koja se referira na postotak proizvoda bez defekata
+Six Sigma metoda usmjerena je na bolje razumijevanje zahtjeva kupaca i uklanjanje nedostataka i otpada. Ovi se ciljevi postižu dubokim poznavanjem statistike, inženjeringa i upravljanja projektima, kao i temeljnih procesa i sustava.
+
+Industrije koje se oslanjaju na stručnost stručnjaka iz Six Sigme uključuju automobilsku industriju, elektroniku, zdravstvo, proizvodnju i transport
+
+--- RACI
+
+RACI je akronim koji označava responsible, accountable, consulted and informed.
+RACI dijagram je matrica svih aktivnosti ili donošenja odluka vlasti poduzete u organizaciji postavljenoj protiv svih ljudi ili
+uloge. Na svakom sjecištu aktivnosti i uloga moguće je dodijeliti netko odgovoran, odgovoran, konzultiran ili obaviješten za to aktivnost ili odluka.
+
+koristi se: 
+Informira organizaciju o radnom preopterećenju svojih zaposlenika
+• Smanjuje nesporazume
+• Povećava produktivnost
+• Štedi vrijeme
+
+
+--- Scrum (uloge, što znači promjena u scrumu) 
+
+Scrum je agilna metodologija upravljanja projektima koja uključuje mali tim predvođen Scrum majstorom, čiji je glavni zadatak ukloniti sve prepreke za obavljanje posla. Posao se obavlja u kratkim ciklusima koji se nazivaju sprintevi, a tim se svakodnevno sastaje kako bi razgovarali o trenutnim zadacima i preprekama koje je potrebno ukloniti. Scrum je metoda za upravljanje projektima koja omogućuje brz razvoj i testiranje, posebno unutar malog tima. Tim se sastoji od: Scrum mastera, developera i product ownera
+
+Scrum se sada može primijeniti na projekte u različitim sektorima uključujući zdravstvo, obranu, osiguranje, vladu, bankarstvo i više
