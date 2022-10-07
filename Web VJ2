@@ -1,0 +1,29 @@
+// alert("Poruka2!!!");
+
+// let podatak = prompt ("Upišite vaše ime i prezime", "");
+
+// if( podatak === null || podatak === "" || podatak.lenght < 5)
+// {
+//     console.log("ponistili ste unos");
+//     document.write("Ponistili ste unos");
+// }
+
+// else{
+//     console.log(`Vase ime i prezime je ${podatak}`);
+//     document.write(`Vase ime i prezime je ${podatak}`);
+// }
+
+
+
+
+
+
+let podatak = prompt ("Upišite godinu", "");
+
+if(isNaN(podatak) && (podatak === null || podatak ==="")){
+    console.log(podatak);
+}
+
+else {
+console.log(podatak);
+}
